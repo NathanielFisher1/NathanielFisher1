@@ -1,6 +1,6 @@
-# Hi! I'm Nathaniel Fisher 👋
+# Hi! I'm Nathaniel Fisher 🧬
 
-I am a **bioinformatician** in the *iCaMP Laboratory* at Boston University.  
+I am a **bioinformatician** in the iCaMP Laboratory at Boston University.  
 To learn more about my work, check out my portfolio and repositories below:
 
 - 🌐 **Portfolio:** [https://nathanielfisher1.github.io/](#)  
