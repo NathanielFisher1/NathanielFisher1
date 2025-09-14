@@ -5,5 +5,5 @@
 
 
 
-- 🌐 **Portfolio:** [https://nathanielfisher1.github.io/](#)  
-- 📂 **Repositories:** [https://github.com/NathanielFisher1?tab=repositories](#)
+- 🌐 [**Portfolio**](https://nathanielfisher1.github.io/)  
+- 📂 [**Repositories**](https://github.com/NathanielFisher1?tab=repositories)
